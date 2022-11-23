@@ -1,0 +1,16 @@
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\LinearInterpolation\bin\Release\net5.0\LinearInterpolation.exe
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\LinearInterpolation\bin\Release\net5.0\LinearInterpolation.deps.json
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\LinearInterpolation\bin\Release\net5.0\LinearInterpolation.runtimeconfig.json
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\LinearInterpolation\bin\Release\net5.0\LinearInterpolation.runtimeconfig.dev.json
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\LinearInterpolation\bin\Release\net5.0\LinearInterpolation.dll
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\LinearInterpolation\bin\Release\net5.0\ref\LinearInterpolation.dll
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\LinearInterpolation\bin\Release\net5.0\LinearInterpolation.pdb
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\LinearInterpolation\obj\Release\net5.0\LinearInterpolation.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\LinearInterpolation\obj\Release\net5.0\LinearInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\LinearInterpolation\obj\Release\net5.0\LinearInterpolation.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\LinearInterpolation\obj\Release\net5.0\LinearInterpolation.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\LinearInterpolation\obj\Release\net5.0\LinearInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\LinearInterpolation\obj\Release\net5.0\LinearInterpolation.dll
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\LinearInterpolation\obj\Release\net5.0\ref\LinearInterpolation.dll
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\LinearInterpolation\obj\Release\net5.0\LinearInterpolation.pdb
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\LinearInterpolation\obj\Release\net5.0\LinearInterpolation.genruntimeconfig.cache

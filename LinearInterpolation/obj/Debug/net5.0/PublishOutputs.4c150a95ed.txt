@@ -1,0 +1,5 @@
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\Nueva carpeta\LinearInterpolation.exe
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\Nueva carpeta\LinearInterpolation.dll
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\Nueva carpeta\LinearInterpolation.deps.json
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\Nueva carpeta\LinearInterpolation.runtimeconfig.json
+C:\Users\Usuario\OneDrive\CLOUDAHEAD\LinearInterpolation\LinearInterpolation\Nueva carpeta\LinearInterpolation.pdb
